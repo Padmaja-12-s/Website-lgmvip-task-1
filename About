@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>About</title>
+    </head>
+    <body>
+        <style>
+            body{
+                color:darkturquoise;
+            }
+        </style>
+        <strong>About Myself:</strong><br>
+        <em>I am Padmaja S currently pursuing B.tech Information Technology(third year) at Sri Sairam Institute Of Technology,Chennai.<br>
+        Completed my higher secondary schooling at Bharathiyar Matriculation Higher Secondary School.<br>
+        A person who is passionate on learning new things.</em><br>
+    </body>
+</html>
