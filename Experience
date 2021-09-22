@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Internship Experience</title>
+        <strong><h2>Internship Experience</h2></strong>
+    </head>
+    <body>
+        <style>
+            body{
+                color: blue;
+            }
+        </style>
+       <form> 
+        <strong>Campus Ambassador Intern at various startup organizations:</strong>
+        <i>
+        <p> &#127872; cvDragon</p> 
+        <p> &#127872; Internmind</p> 
+        <p> &#127872; Dremovact</p> 
+        <p> &#127872; DigitalDad</p> 
+        </i>
+        <strong>Digital marketing Intern:</strong> 
+        <i>
+        <p> &#127881; cvDragon</p>
+        </i>
+        <strong>Content writing Intern:</strong>
+        <i>
+        <p> &#128165; Softrate</p>
+        <p> &#128165; Technick Soft Solutions</p>
+        </i>
+        <strong>Graphic design Intern</strong>
+        <i> 
+        <p> &#127882; GK Group Of Company</p>
+        </i>
+        <strong>Web developer Intern</strong>
+        <i>
+        <p> &#127891; Letsgrowmore</p>
+        </i>
+    </body>
+</html>
