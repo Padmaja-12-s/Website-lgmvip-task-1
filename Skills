@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Skills and Area Of Interest</title>
+        <h1><p>&#127804; Technical Skills</p></h1>
+    </head>
+            <p>&#9989; HTML(Hypertext Markup Language)</p>
+            <p>&#9989; CSS(Cascading Style Sheets)</p>
+            <p>&#9989; Java Script</p> 
+            <p>&#9989; C programming</p>
+            <p>&#9989; C# </p>
+            <p>&#9989; Python </p>
+            <p>&#9989; Basics Of Java</p>
+        </ul>
+        <body>
+            <style>
+                body{
+                    color: black;
+                }
+            </style>
+            <strong><mark><p>&#127804; Area Of Interest</p></mark></strong>
+            <p> &#127802; Web developing</p>
+            <p> &#127802; Graphic designing</p>
+            <p> &#127802; Content writing</p>
+            <p> &#127802; Software developing</p>
+        </body>
+</html>
