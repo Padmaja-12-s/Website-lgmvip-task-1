@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Career Objective </title>
+        <h1>Career objective</h1>
+    </head>
+    <body>
+        <style>
+            body{
+                color: black;
+            }
+        </style>
+        <p>
+            Seeking a challenging position in a reputed organization where I can learn new skills,expand my knowledge and leverage 
+            my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth. To get new Experience
+            as well as utilize my communication and interpersonal skills to work towards the organisational goals.
+            My long term goal is to get placed in a good company with high compensation.
+        </p>
+</body>
+</html>
