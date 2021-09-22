@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content ="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <style>
+            div{
+                background-image: url('https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg');
+                color:seagreen;
+            }
+        </style>
+        <h1>Welcome to my website</h1>
+        <li><a href ="Career Objective.html">Career Objective</a></li><br>
+        <li><a href ="About.html">About</a></li><br>
+        <li><a href="Skills and Area of Interest.html">Skills and area of Interest</a></li><br>
+        <li><a href="Internship Experience.html">Internship Experience</a></li><br>
+        <li><a href="Contact Information.html">Contact Information</a></li><br>
+</body>
+</html>
